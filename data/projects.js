@@ -146,7 +146,7 @@ window.PORTFOLIO.projects = [
  title: ["TOFU Unlearning", "Re-examined"],
  ital: "Re-examined",
  tag: "USC · Research · CSCI 699",
- status: "PUBLISHED",
+ status: "COMPLETED",
  blurb:
  "Does Gradient Ascent fail at LLM unlearning because of the algorithm, or just bad hyperparameters? Two-orders-of-magnitude learning-rate sweep on Phi-1.5 + TOFU benchmark.",
  bullets: [
